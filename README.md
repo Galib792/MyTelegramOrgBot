@@ -22,7 +22,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Galib792/MyTelegramOrgBot)
 
 
 #### The Legacy Way
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [Support group](https://telegram.dog/Tips_Tik_discussion)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
@@ -68,7 +68,7 @@ python3 bot.py
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/Galib792/MyTelegramOrgBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
 [AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
@@ -80,4 +80,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [Tips Tik](https://tx.me/Tips_Tik)

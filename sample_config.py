@@ -29,13 +29,13 @@ class Config:
     ]
     # if any of the platform, does not work
     # please reopen
-    # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
+    # https://github.com/Galib792/MyTelegramOrgBot/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
         "created using https://telegram.dog/UseTGxBot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @SpEcHlDe")
+    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @TipsTik")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
